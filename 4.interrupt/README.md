@@ -37,6 +37,11 @@ boot.S is copy from [raspberry-pi-os/exercises/lesson03/3/bl4ckout31/src/boot.S]
 
 ![image](https://github.com/magnate3/raspberry-pi3-mini-os/blob/qemu/4.interrupt/pic/boot.png)
 
+
+# el1_irq
+
+![image](https://github.com/magnate3/raspberry-pi3-mini-os/blob/qemu/4.interrupt/pic/el1_irq.png)
+
 # make and run
 
 ```
