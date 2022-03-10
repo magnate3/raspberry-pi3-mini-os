@@ -3,8 +3,8 @@
 
 #include "peripherals/base.h"
 
-#define TIMER_CS        (PBASE+0x00003000) //System Timer Control/Status
-#define TIMER_CLO       (PBASE+0x00003004) //System Timer Counter Lower 32 bits
+#define TIMER_CS        (PBASE+0x00003000)
+#define TIMER_CLO       (PBASE+0x00003004)
 #define TIMER_CHI       (PBASE+0x00003008)
 #define TIMER_C0        (PBASE+0x0000300C)
 #define TIMER_C1        (PBASE+0x00003010)

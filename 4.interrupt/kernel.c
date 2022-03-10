@@ -9,6 +9,7 @@ void kernel_main(void)
 	uart_init();
 	init_printf(0, putc);
 	irq_vector_init();
+        printf("hello \n\r");
 	while(1){	
 		printf("If you want stop timer，just enter any key\n\r");
 		printf("Please choose a timer number 1 or 3\n\r");
