@@ -1,17 +1,23 @@
 #include "utils.h"
-#include "peripherals/uart.h"
+#include "peripherals/mini_uart.h"
 #include "peripherals/gpio.h"
 
 void uart_send ( char c )
 {
-	while(get32(UART_FR)&0x20) {}			// wait if TX is full
-	put32(UART_DR,c);						// when TX is empty, send next char
+	while(1) {
+		if(get32(AUX_MU_LSR_REG)&0x20)
+			break;
+	}
+	put32(AUX_MU_IO_REG,c);
 }
 
 char uart_recv ( void )
 {
-	while(get32(UART_FR)&0x10) {}			// wait if RX is empty
-	return(get32(UART_DR)&0xFF);			// get recived char
+	while(1) {
+		if(get32(AUX_MU_LSR_REG)&0x01)
+			break;
+	}
+	return(get32(AUX_MU_IO_REG)&0xFF);
 }
 
 void uart_send_string(char* str)
@@ -27,9 +33,9 @@ void uart_init ( void )
 
 	selector = get32(GPFSEL1);
 	selector &= ~(7<<12);                   // clean gpio14
-	selector |= 4<<12;                      // set alt0 for gpio14
+	selector |= 2<<12;                      // set alt5 for gpio14
 	selector &= ~(7<<15);                   // clean gpio15
-	selector |= 4<<15;                      // set alt0 for gpio15
+	selector |= 2<<15;                      // set alt5 for gpio15
 	put32(GPFSEL1,selector);
 
 	put32(GPPUD,0);
@@ -38,11 +44,19 @@ void uart_init ( void )
 	delay(150);
 	put32(GPPUDCLK0,0);
 
-	put32(UART_CR,0);						// disable RX and TX to configure
-	
-	put32(UART_IBRD,26);					//PrimeCell UART (PL011) rev.r1p5 pag.3-9 BAUDDIV = (FUARTCLK/(16 Baud rate)) = 48MHz/(16*115200) = 26.041666
-	put32(UART_FBRD,3);					
-	put32(UARTLCR_LCRH,0x60);				//Enable 8 bit mode
+	put32(AUX_ENABLES,1);                   //Enable mini uart (this also enables access to its registers)
+	put32(AUX_MU_CNTL_REG,0);               //Disable auto flow control and disable receiver and transmitter (for now)
+	put32(AUX_MU_IER_REG,0);                //Disable receive and transmit interrupts
+	put32(AUX_MU_LCR_REG,3);                //Enable 8 bit mode
+	put32(AUX_MU_MCR_REG,0);                //Set RTS line to be always high
+	put32(AUX_MU_BAUD_REG,270);             //Set baud rate to 115200
 
-	put32(UART_CR,0x301);					// enable UART, RX and TX
+	put32(AUX_MU_CNTL_REG,3);               //Finally, enable transmitter and receiver
+}
+
+
+// This function is required by printf function
+void putc ( void* p, char c)
+{
+	uart_send(c);
 }

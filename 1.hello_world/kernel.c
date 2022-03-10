@@ -1,4 +1,4 @@
-#include "uart.h"
+#include "mini_uart.h"
 void kernel(void)
 {
 	uart_init();
