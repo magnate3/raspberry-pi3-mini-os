@@ -42,6 +42,44 @@ boot.S is copy from [raspberry-pi-os/exercises/lesson03/3/bl4ckout31/src/boot.S]
 
 ![image](https://github.com/magnate3/raspberry-pi3-mini-os/blob/qemu/4.interrupt/pic/el1_irq.png)
 
+# install irq vector
+
+```
+.globl irq_vector_init
+irq_vector_init:
+        adr     x0, vectors             // load VBAR_EL1 with virtual
+        msr     vbar_el1, x0            // vector table address
+        ret
+
+```
+
+#  Rapberry pi  IO memory base address
+```
+#define PBASE  0x3F000000
+#define TIMER_CLO       (PBASE+0x00003004)
+#define TIMER_C1        (PBASE+0x00003010)
+#define TIMER_CS        (PBASE+0x00003000)
+#define TIMER_CS_M3      (1 << 3)
+
+void timer_init ( void )
+{
+        curVal = get32(TIMER_CLO);
+        curVal += interval;
+        put32(TIMER_C1, curVal);
+}
+
+void handle_timer_irq_3( void )
+{
+        curVal_3 += interval;
+        put32(TIMER_C3, curVal_3);
+        put32(TIMER_CS, TIMER_CS_M3);
+        printf("Timer 3 interrupt received\n\r");
+}
+```
+
+
+
+
 # make and run
 
 ```
