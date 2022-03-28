@@ -1,0 +1,1102 @@
+
+entry.o:     file format elf64-littleaarch64
+
+Contents of section .text:
+ 0000 e1010014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0010 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0020 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0030 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0040 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0050 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0060 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0070 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0080 d7010014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0090 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 00a0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 00b0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 00c0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 00d0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 00e0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 00f0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0100 cd010014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0110 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0120 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0130 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0140 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0150 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0160 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0170 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0180 c3010014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0190 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 01a0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 01b0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 01c0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 01d0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 01e0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 01f0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0200 b9010014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0210 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0220 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0230 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0240 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0250 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0260 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0270 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0280 8b020014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0290 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 02a0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 02b0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 02c0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 02d0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 02e0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 02f0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0300 8f010014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0310 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0320 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0330 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0340 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0350 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0360 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0370 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0380 85010014 1f2003d5 1f2003d5 1f2003d5  ..... ... ... ..
+ 0390 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 03a0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 03b0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 03c0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 03d0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 03e0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 03f0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0400 7b010014 1f2003d5 1f2003d5 1f2003d5  {.... ... ... ..
+ 0410 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0420 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0430 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0440 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0450 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0460 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0470 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0480 71010014 1f2003d5 1f2003d5 1f2003d5  q.... ... ... ..
+ 0490 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 04a0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 04b0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 04c0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 04d0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 04e0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 04f0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0500 67010014 1f2003d5 1f2003d5 1f2003d5  g.... ... ... ..
+ 0510 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0520 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0530 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0540 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0550 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0560 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0570 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0580 5d010014 1f2003d5 1f2003d5 1f2003d5  ].... ... ... ..
+ 0590 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 05a0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 05b0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 05c0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 05d0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 05e0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 05f0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0600 53010014 1f2003d5 1f2003d5 1f2003d5  S.... ... ... ..
+ 0610 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0620 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0630 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0640 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0650 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0660 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0670 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0680 49010014 1f2003d5 1f2003d5 1f2003d5  I.... ... ... ..
+ 0690 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 06a0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 06b0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 06c0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 06d0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 06e0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 06f0 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0700 3f010014 1f2003d5 1f2003d5 1f2003d5  ?.... ... ... ..
+ 0710 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0720 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0730 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0740 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0750 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0760 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0770 1f2003d5 1f2003d5 1f2003d5 1f2003d5  . ... ... ... ..
+ 0780 35010014 ff0304d1 e00700a9 e20f01a9  5...............
+ 0790 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 07a0 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 07b0 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 07c0 fc770ea9 fe7b00f9 000080d2 015238d5  .w...{.......R8.
+ 07d0 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 07e0 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 07f0 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 0800 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 0810 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 0820 200080d2 015238d5 224038d5 00000094   ....R8."@8.....
+ 0830 00000014 ff0304d1 e00700a9 e20f01a9  ................
+ 0840 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 0850 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 0860 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 0870 fc770ea9 fe7b00f9 400080d2 015238d5  .w...{..@....R8.
+ 0880 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 0890 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 08a0 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 08b0 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 08c0 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 08d0 600080d2 015238d5 224038d5 00000094  `....R8."@8.....
+ 08e0 00000014 ff0304d1 e00700a9 e20f01a9  ................
+ 08f0 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 0900 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 0910 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 0920 fc770ea9 fe7b00f9 800080d2 015238d5  .w...{.......R8.
+ 0930 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 0940 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 0950 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 0960 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 0970 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 0980 c00080d2 015238d5 224038d5 00000094  .....R8."@8.....
+ 0990 00000014 ff0304d1 e00700a9 e20f01a9  ................
+ 09a0 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 09b0 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 09c0 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 09d0 fc770ea9 fe7b00f9 e00080d2 015238d5  .w...{.......R8.
+ 09e0 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 09f0 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 0a00 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 0a10 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 0a20 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 0a30 000180d2 015238d5 224038d5 00000094  .....R8."@8.....
+ 0a40 00000014 ff0304d1 e00700a9 e20f01a9  ................
+ 0a50 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 0a60 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 0a70 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 0a80 fc770ea9 fe7b00f9 200180d2 015238d5  .w...{.. ....R8.
+ 0a90 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 0aa0 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 0ab0 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 0ac0 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 0ad0 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 0ae0 400180d2 015238d5 224038d5 00000094  @....R8."@8.....
+ 0af0 00000014 ff0304d1 e00700a9 e20f01a9  ................
+ 0b00 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 0b10 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 0b20 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 0b30 fc770ea9 fe7b00f9 600180d2 015238d5  .w...{..`....R8.
+ 0b40 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 0b50 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 0b60 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 0b70 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 0b80 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 0b90 800180d2 015238d5 224038d5 00000094  .....R8."@8.....
+ 0ba0 00000014 ff0304d1 e00700a9 e20f01a9  ................
+ 0bb0 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 0bc0 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 0bd0 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 0be0 fc770ea9 fe7b00f9 a00180d2 015238d5  .w...{.......R8.
+ 0bf0 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 0c00 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 0c10 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 0c20 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 0c30 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 0c40 c00180d2 015238d5 224038d5 00000094  .....R8."@8.....
+ 0c50 00000014 ff0304d1 e00700a9 e20f01a9  ................
+ 0c60 e41702a9 e61f03a9 e82704a9 ea2f05a9  .........'.../..
+ 0c70 ec3706a9 ee3f07a9 f04708a9 f24f09a9  .7...?...G...O..
+ 0c80 f4570aa9 f65f0ba9 f8670ca9 fa6f0da9  .W..._...g...o..
+ 0c90 fc770ea9 fe7b00f9 e00180d2 015238d5  .w...{.......R8.
+ 0ca0 224038d5 00000094 00000014 ff0304d1  "@8.............
+ 0cb0 e00700a9 e20f01a9 e41702a9 e61f03a9  ................
+ 0cc0 e82704a9 ea2f05a9 ec3706a9 ee3f07a9  .'.../...7...?..
+ 0cd0 f04708a9 f24f09a9 f4570aa9 f65f0ba9  .G...O...W..._..
+ 0ce0 f8670ca9 fa6f0da9 fc770ea9 fe7b00f9  .g...o...w...{..
+ 0cf0 00000094 e00740a9 e20f41a9 e41742a9  ......@...A...B.
+ 0d00 e61f43a9 e82744a9 ea2f45a9 ec3746a9  ..C..'D../E..7F.
+ 0d10 ee3f47a9 f04748a9 f24f49a9 f4574aa9  .?G..GH..OI..WJ.
+ 0d20 f65f4ba9 f8674ca9 fa6f4da9 fc774ea9  ._K..gL..oM..wN.
+ 0d30 fe7b40f9 ff030491 e0039fd6 00000014  .{@.............
+
+Disassembly of section .text:
+
+0000000000000000 <vectors>:
+   0:	140001e1 	b	784 <sync_invalid_el1t>
+   4:	d503201f 	nop
+   8:	d503201f 	nop
+   c:	d503201f 	nop
+  10:	d503201f 	nop
+  14:	d503201f 	nop
+  18:	d503201f 	nop
+  1c:	d503201f 	nop
+  20:	d503201f 	nop
+  24:	d503201f 	nop
+  28:	d503201f 	nop
+  2c:	d503201f 	nop
+  30:	d503201f 	nop
+  34:	d503201f 	nop
+  38:	d503201f 	nop
+  3c:	d503201f 	nop
+  40:	d503201f 	nop
+  44:	d503201f 	nop
+  48:	d503201f 	nop
+  4c:	d503201f 	nop
+  50:	d503201f 	nop
+  54:	d503201f 	nop
+  58:	d503201f 	nop
+  5c:	d503201f 	nop
+  60:	d503201f 	nop
+  64:	d503201f 	nop
+  68:	d503201f 	nop
+  6c:	d503201f 	nop
+  70:	d503201f 	nop
+  74:	d503201f 	nop
+  78:	d503201f 	nop
+  7c:	d503201f 	nop
+  80:	140001d7 	b	7dc <irq_invalid_el1t>
+  84:	d503201f 	nop
+  88:	d503201f 	nop
+  8c:	d503201f 	nop
+  90:	d503201f 	nop
+  94:	d503201f 	nop
+  98:	d503201f 	nop
+  9c:	d503201f 	nop
+  a0:	d503201f 	nop
+  a4:	d503201f 	nop
+  a8:	d503201f 	nop
+  ac:	d503201f 	nop
+  b0:	d503201f 	nop
+  b4:	d503201f 	nop
+  b8:	d503201f 	nop
+  bc:	d503201f 	nop
+  c0:	d503201f 	nop
+  c4:	d503201f 	nop
+  c8:	d503201f 	nop
+  cc:	d503201f 	nop
+  d0:	d503201f 	nop
+  d4:	d503201f 	nop
+  d8:	d503201f 	nop
+  dc:	d503201f 	nop
+  e0:	d503201f 	nop
+  e4:	d503201f 	nop
+  e8:	d503201f 	nop
+  ec:	d503201f 	nop
+  f0:	d503201f 	nop
+  f4:	d503201f 	nop
+  f8:	d503201f 	nop
+  fc:	d503201f 	nop
+ 100:	140001cd 	b	834 <fiq_invalid_el1t>
+ 104:	d503201f 	nop
+ 108:	d503201f 	nop
+ 10c:	d503201f 	nop
+ 110:	d503201f 	nop
+ 114:	d503201f 	nop
+ 118:	d503201f 	nop
+ 11c:	d503201f 	nop
+ 120:	d503201f 	nop
+ 124:	d503201f 	nop
+ 128:	d503201f 	nop
+ 12c:	d503201f 	nop
+ 130:	d503201f 	nop
+ 134:	d503201f 	nop
+ 138:	d503201f 	nop
+ 13c:	d503201f 	nop
+ 140:	d503201f 	nop
+ 144:	d503201f 	nop
+ 148:	d503201f 	nop
+ 14c:	d503201f 	nop
+ 150:	d503201f 	nop
+ 154:	d503201f 	nop
+ 158:	d503201f 	nop
+ 15c:	d503201f 	nop
+ 160:	d503201f 	nop
+ 164:	d503201f 	nop
+ 168:	d503201f 	nop
+ 16c:	d503201f 	nop
+ 170:	d503201f 	nop
+ 174:	d503201f 	nop
+ 178:	d503201f 	nop
+ 17c:	d503201f 	nop
+ 180:	140001c3 	b	88c <error_invalid_el1t>
+ 184:	d503201f 	nop
+ 188:	d503201f 	nop
+ 18c:	d503201f 	nop
+ 190:	d503201f 	nop
+ 194:	d503201f 	nop
+ 198:	d503201f 	nop
+ 19c:	d503201f 	nop
+ 1a0:	d503201f 	nop
+ 1a4:	d503201f 	nop
+ 1a8:	d503201f 	nop
+ 1ac:	d503201f 	nop
+ 1b0:	d503201f 	nop
+ 1b4:	d503201f 	nop
+ 1b8:	d503201f 	nop
+ 1bc:	d503201f 	nop
+ 1c0:	d503201f 	nop
+ 1c4:	d503201f 	nop
+ 1c8:	d503201f 	nop
+ 1cc:	d503201f 	nop
+ 1d0:	d503201f 	nop
+ 1d4:	d503201f 	nop
+ 1d8:	d503201f 	nop
+ 1dc:	d503201f 	nop
+ 1e0:	d503201f 	nop
+ 1e4:	d503201f 	nop
+ 1e8:	d503201f 	nop
+ 1ec:	d503201f 	nop
+ 1f0:	d503201f 	nop
+ 1f4:	d503201f 	nop
+ 1f8:	d503201f 	nop
+ 1fc:	d503201f 	nop
+ 200:	140001b9 	b	8e4 <sync_invalid_el1h>
+ 204:	d503201f 	nop
+ 208:	d503201f 	nop
+ 20c:	d503201f 	nop
+ 210:	d503201f 	nop
+ 214:	d503201f 	nop
+ 218:	d503201f 	nop
+ 21c:	d503201f 	nop
+ 220:	d503201f 	nop
+ 224:	d503201f 	nop
+ 228:	d503201f 	nop
+ 22c:	d503201f 	nop
+ 230:	d503201f 	nop
+ 234:	d503201f 	nop
+ 238:	d503201f 	nop
+ 23c:	d503201f 	nop
+ 240:	d503201f 	nop
+ 244:	d503201f 	nop
+ 248:	d503201f 	nop
+ 24c:	d503201f 	nop
+ 250:	d503201f 	nop
+ 254:	d503201f 	nop
+ 258:	d503201f 	nop
+ 25c:	d503201f 	nop
+ 260:	d503201f 	nop
+ 264:	d503201f 	nop
+ 268:	d503201f 	nop
+ 26c:	d503201f 	nop
+ 270:	d503201f 	nop
+ 274:	d503201f 	nop
+ 278:	d503201f 	nop
+ 27c:	d503201f 	nop
+ 280:	1400028b 	b	cac <el1_irq>
+ 284:	d503201f 	nop
+ 288:	d503201f 	nop
+ 28c:	d503201f 	nop
+ 290:	d503201f 	nop
+ 294:	d503201f 	nop
+ 298:	d503201f 	nop
+ 29c:	d503201f 	nop
+ 2a0:	d503201f 	nop
+ 2a4:	d503201f 	nop
+ 2a8:	d503201f 	nop
+ 2ac:	d503201f 	nop
+ 2b0:	d503201f 	nop
+ 2b4:	d503201f 	nop
+ 2b8:	d503201f 	nop
+ 2bc:	d503201f 	nop
+ 2c0:	d503201f 	nop
+ 2c4:	d503201f 	nop
+ 2c8:	d503201f 	nop
+ 2cc:	d503201f 	nop
+ 2d0:	d503201f 	nop
+ 2d4:	d503201f 	nop
+ 2d8:	d503201f 	nop
+ 2dc:	d503201f 	nop
+ 2e0:	d503201f 	nop
+ 2e4:	d503201f 	nop
+ 2e8:	d503201f 	nop
+ 2ec:	d503201f 	nop
+ 2f0:	d503201f 	nop
+ 2f4:	d503201f 	nop
+ 2f8:	d503201f 	nop
+ 2fc:	d503201f 	nop
+ 300:	1400018f 	b	93c <fiq_invalid_el1h>
+ 304:	d503201f 	nop
+ 308:	d503201f 	nop
+ 30c:	d503201f 	nop
+ 310:	d503201f 	nop
+ 314:	d503201f 	nop
+ 318:	d503201f 	nop
+ 31c:	d503201f 	nop
+ 320:	d503201f 	nop
+ 324:	d503201f 	nop
+ 328:	d503201f 	nop
+ 32c:	d503201f 	nop
+ 330:	d503201f 	nop
+ 334:	d503201f 	nop
+ 338:	d503201f 	nop
+ 33c:	d503201f 	nop
+ 340:	d503201f 	nop
+ 344:	d503201f 	nop
+ 348:	d503201f 	nop
+ 34c:	d503201f 	nop
+ 350:	d503201f 	nop
+ 354:	d503201f 	nop
+ 358:	d503201f 	nop
+ 35c:	d503201f 	nop
+ 360:	d503201f 	nop
+ 364:	d503201f 	nop
+ 368:	d503201f 	nop
+ 36c:	d503201f 	nop
+ 370:	d503201f 	nop
+ 374:	d503201f 	nop
+ 378:	d503201f 	nop
+ 37c:	d503201f 	nop
+ 380:	14000185 	b	994 <error_invalid_el1h>
+ 384:	d503201f 	nop
+ 388:	d503201f 	nop
+ 38c:	d503201f 	nop
+ 390:	d503201f 	nop
+ 394:	d503201f 	nop
+ 398:	d503201f 	nop
+ 39c:	d503201f 	nop
+ 3a0:	d503201f 	nop
+ 3a4:	d503201f 	nop
+ 3a8:	d503201f 	nop
+ 3ac:	d503201f 	nop
+ 3b0:	d503201f 	nop
+ 3b4:	d503201f 	nop
+ 3b8:	d503201f 	nop
+ 3bc:	d503201f 	nop
+ 3c0:	d503201f 	nop
+ 3c4:	d503201f 	nop
+ 3c8:	d503201f 	nop
+ 3cc:	d503201f 	nop
+ 3d0:	d503201f 	nop
+ 3d4:	d503201f 	nop
+ 3d8:	d503201f 	nop
+ 3dc:	d503201f 	nop
+ 3e0:	d503201f 	nop
+ 3e4:	d503201f 	nop
+ 3e8:	d503201f 	nop
+ 3ec:	d503201f 	nop
+ 3f0:	d503201f 	nop
+ 3f4:	d503201f 	nop
+ 3f8:	d503201f 	nop
+ 3fc:	d503201f 	nop
+ 400:	1400017b 	b	9ec <sync_invalid_el0_64>
+ 404:	d503201f 	nop
+ 408:	d503201f 	nop
+ 40c:	d503201f 	nop
+ 410:	d503201f 	nop
+ 414:	d503201f 	nop
+ 418:	d503201f 	nop
+ 41c:	d503201f 	nop
+ 420:	d503201f 	nop
+ 424:	d503201f 	nop
+ 428:	d503201f 	nop
+ 42c:	d503201f 	nop
+ 430:	d503201f 	nop
+ 434:	d503201f 	nop
+ 438:	d503201f 	nop
+ 43c:	d503201f 	nop
+ 440:	d503201f 	nop
+ 444:	d503201f 	nop
+ 448:	d503201f 	nop
+ 44c:	d503201f 	nop
+ 450:	d503201f 	nop
+ 454:	d503201f 	nop
+ 458:	d503201f 	nop
+ 45c:	d503201f 	nop
+ 460:	d503201f 	nop
+ 464:	d503201f 	nop
+ 468:	d503201f 	nop
+ 46c:	d503201f 	nop
+ 470:	d503201f 	nop
+ 474:	d503201f 	nop
+ 478:	d503201f 	nop
+ 47c:	d503201f 	nop
+ 480:	14000171 	b	a44 <irq_invalid_el0_64>
+ 484:	d503201f 	nop
+ 488:	d503201f 	nop
+ 48c:	d503201f 	nop
+ 490:	d503201f 	nop
+ 494:	d503201f 	nop
+ 498:	d503201f 	nop
+ 49c:	d503201f 	nop
+ 4a0:	d503201f 	nop
+ 4a4:	d503201f 	nop
+ 4a8:	d503201f 	nop
+ 4ac:	d503201f 	nop
+ 4b0:	d503201f 	nop
+ 4b4:	d503201f 	nop
+ 4b8:	d503201f 	nop
+ 4bc:	d503201f 	nop
+ 4c0:	d503201f 	nop
+ 4c4:	d503201f 	nop
+ 4c8:	d503201f 	nop
+ 4cc:	d503201f 	nop
+ 4d0:	d503201f 	nop
+ 4d4:	d503201f 	nop
+ 4d8:	d503201f 	nop
+ 4dc:	d503201f 	nop
+ 4e0:	d503201f 	nop
+ 4e4:	d503201f 	nop
+ 4e8:	d503201f 	nop
+ 4ec:	d503201f 	nop
+ 4f0:	d503201f 	nop
+ 4f4:	d503201f 	nop
+ 4f8:	d503201f 	nop
+ 4fc:	d503201f 	nop
+ 500:	14000167 	b	a9c <fiq_invalid_el0_64>
+ 504:	d503201f 	nop
+ 508:	d503201f 	nop
+ 50c:	d503201f 	nop
+ 510:	d503201f 	nop
+ 514:	d503201f 	nop
+ 518:	d503201f 	nop
+ 51c:	d503201f 	nop
+ 520:	d503201f 	nop
+ 524:	d503201f 	nop
+ 528:	d503201f 	nop
+ 52c:	d503201f 	nop
+ 530:	d503201f 	nop
+ 534:	d503201f 	nop
+ 538:	d503201f 	nop
+ 53c:	d503201f 	nop
+ 540:	d503201f 	nop
+ 544:	d503201f 	nop
+ 548:	d503201f 	nop
+ 54c:	d503201f 	nop
+ 550:	d503201f 	nop
+ 554:	d503201f 	nop
+ 558:	d503201f 	nop
+ 55c:	d503201f 	nop
+ 560:	d503201f 	nop
+ 564:	d503201f 	nop
+ 568:	d503201f 	nop
+ 56c:	d503201f 	nop
+ 570:	d503201f 	nop
+ 574:	d503201f 	nop
+ 578:	d503201f 	nop
+ 57c:	d503201f 	nop
+ 580:	1400015d 	b	af4 <error_invalid_el0_64>
+ 584:	d503201f 	nop
+ 588:	d503201f 	nop
+ 58c:	d503201f 	nop
+ 590:	d503201f 	nop
+ 594:	d503201f 	nop
+ 598:	d503201f 	nop
+ 59c:	d503201f 	nop
+ 5a0:	d503201f 	nop
+ 5a4:	d503201f 	nop
+ 5a8:	d503201f 	nop
+ 5ac:	d503201f 	nop
+ 5b0:	d503201f 	nop
+ 5b4:	d503201f 	nop
+ 5b8:	d503201f 	nop
+ 5bc:	d503201f 	nop
+ 5c0:	d503201f 	nop
+ 5c4:	d503201f 	nop
+ 5c8:	d503201f 	nop
+ 5cc:	d503201f 	nop
+ 5d0:	d503201f 	nop
+ 5d4:	d503201f 	nop
+ 5d8:	d503201f 	nop
+ 5dc:	d503201f 	nop
+ 5e0:	d503201f 	nop
+ 5e4:	d503201f 	nop
+ 5e8:	d503201f 	nop
+ 5ec:	d503201f 	nop
+ 5f0:	d503201f 	nop
+ 5f4:	d503201f 	nop
+ 5f8:	d503201f 	nop
+ 5fc:	d503201f 	nop
+ 600:	14000153 	b	b4c <sync_invalid_el0_32>
+ 604:	d503201f 	nop
+ 608:	d503201f 	nop
+ 60c:	d503201f 	nop
+ 610:	d503201f 	nop
+ 614:	d503201f 	nop
+ 618:	d503201f 	nop
+ 61c:	d503201f 	nop
+ 620:	d503201f 	nop
+ 624:	d503201f 	nop
+ 628:	d503201f 	nop
+ 62c:	d503201f 	nop
+ 630:	d503201f 	nop
+ 634:	d503201f 	nop
+ 638:	d503201f 	nop
+ 63c:	d503201f 	nop
+ 640:	d503201f 	nop
+ 644:	d503201f 	nop
+ 648:	d503201f 	nop
+ 64c:	d503201f 	nop
+ 650:	d503201f 	nop
+ 654:	d503201f 	nop
+ 658:	d503201f 	nop
+ 65c:	d503201f 	nop
+ 660:	d503201f 	nop
+ 664:	d503201f 	nop
+ 668:	d503201f 	nop
+ 66c:	d503201f 	nop
+ 670:	d503201f 	nop
+ 674:	d503201f 	nop
+ 678:	d503201f 	nop
+ 67c:	d503201f 	nop
+ 680:	14000149 	b	ba4 <irq_invalid_el0_32>
+ 684:	d503201f 	nop
+ 688:	d503201f 	nop
+ 68c:	d503201f 	nop
+ 690:	d503201f 	nop
+ 694:	d503201f 	nop
+ 698:	d503201f 	nop
+ 69c:	d503201f 	nop
+ 6a0:	d503201f 	nop
+ 6a4:	d503201f 	nop
+ 6a8:	d503201f 	nop
+ 6ac:	d503201f 	nop
+ 6b0:	d503201f 	nop
+ 6b4:	d503201f 	nop
+ 6b8:	d503201f 	nop
+ 6bc:	d503201f 	nop
+ 6c0:	d503201f 	nop
+ 6c4:	d503201f 	nop
+ 6c8:	d503201f 	nop
+ 6cc:	d503201f 	nop
+ 6d0:	d503201f 	nop
+ 6d4:	d503201f 	nop
+ 6d8:	d503201f 	nop
+ 6dc:	d503201f 	nop
+ 6e0:	d503201f 	nop
+ 6e4:	d503201f 	nop
+ 6e8:	d503201f 	nop
+ 6ec:	d503201f 	nop
+ 6f0:	d503201f 	nop
+ 6f4:	d503201f 	nop
+ 6f8:	d503201f 	nop
+ 6fc:	d503201f 	nop
+ 700:	1400013f 	b	bfc <fiq_invalid_el0_32>
+ 704:	d503201f 	nop
+ 708:	d503201f 	nop
+ 70c:	d503201f 	nop
+ 710:	d503201f 	nop
+ 714:	d503201f 	nop
+ 718:	d503201f 	nop
+ 71c:	d503201f 	nop
+ 720:	d503201f 	nop
+ 724:	d503201f 	nop
+ 728:	d503201f 	nop
+ 72c:	d503201f 	nop
+ 730:	d503201f 	nop
+ 734:	d503201f 	nop
+ 738:	d503201f 	nop
+ 73c:	d503201f 	nop
+ 740:	d503201f 	nop
+ 744:	d503201f 	nop
+ 748:	d503201f 	nop
+ 74c:	d503201f 	nop
+ 750:	d503201f 	nop
+ 754:	d503201f 	nop
+ 758:	d503201f 	nop
+ 75c:	d503201f 	nop
+ 760:	d503201f 	nop
+ 764:	d503201f 	nop
+ 768:	d503201f 	nop
+ 76c:	d503201f 	nop
+ 770:	d503201f 	nop
+ 774:	d503201f 	nop
+ 778:	d503201f 	nop
+ 77c:	d503201f 	nop
+ 780:	14000135 	b	c54 <error_invalid_el0_32>
+
+0000000000000784 <sync_invalid_el1t>:
+ 784:	d10403ff 	sub	sp, sp, #0x100
+ 788:	a90007e0 	stp	x0, x1, [sp]
+ 78c:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 790:	a90217e4 	stp	x4, x5, [sp, #32]
+ 794:	a9031fe6 	stp	x6, x7, [sp, #48]
+ 798:	a90427e8 	stp	x8, x9, [sp, #64]
+ 79c:	a9052fea 	stp	x10, x11, [sp, #80]
+ 7a0:	a90637ec 	stp	x12, x13, [sp, #96]
+ 7a4:	a9073fee 	stp	x14, x15, [sp, #112]
+ 7a8:	a90847f0 	stp	x16, x17, [sp, #128]
+ 7ac:	a9094ff2 	stp	x18, x19, [sp, #144]
+ 7b0:	a90a57f4 	stp	x20, x21, [sp, #160]
+ 7b4:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ 7b8:	a90c67f8 	stp	x24, x25, [sp, #192]
+ 7bc:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ 7c0:	a90e77fc 	stp	x28, x29, [sp, #224]
+ 7c4:	f9007bfe 	str	x30, [sp, #240]
+ 7c8:	d2800000 	mov	x0, #0x0                   	// #0
+ 7cc:	d5385201 	mrs	x1, esr_el1
+ 7d0:	d5384022 	mrs	x2, elr_el1
+ 7d4:	94000000 	bl	0 <show_invalid_entry_message>
+ 7d8:	14000000 	b	d3c <err_hang>
+
+00000000000007dc <irq_invalid_el1t>:
+ 7dc:	d10403ff 	sub	sp, sp, #0x100
+ 7e0:	a90007e0 	stp	x0, x1, [sp]
+ 7e4:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 7e8:	a90217e4 	stp	x4, x5, [sp, #32]
+ 7ec:	a9031fe6 	stp	x6, x7, [sp, #48]
+ 7f0:	a90427e8 	stp	x8, x9, [sp, #64]
+ 7f4:	a9052fea 	stp	x10, x11, [sp, #80]
+ 7f8:	a90637ec 	stp	x12, x13, [sp, #96]
+ 7fc:	a9073fee 	stp	x14, x15, [sp, #112]
+ 800:	a90847f0 	stp	x16, x17, [sp, #128]
+ 804:	a9094ff2 	stp	x18, x19, [sp, #144]
+ 808:	a90a57f4 	stp	x20, x21, [sp, #160]
+ 80c:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ 810:	a90c67f8 	stp	x24, x25, [sp, #192]
+ 814:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ 818:	a90e77fc 	stp	x28, x29, [sp, #224]
+ 81c:	f9007bfe 	str	x30, [sp, #240]
+ 820:	d2800020 	mov	x0, #0x1                   	// #1
+ 824:	d5385201 	mrs	x1, esr_el1
+ 828:	d5384022 	mrs	x2, elr_el1
+ 82c:	94000000 	bl	0 <show_invalid_entry_message>
+ 830:	14000000 	b	d3c <err_hang>
+
+0000000000000834 <fiq_invalid_el1t>:
+ 834:	d10403ff 	sub	sp, sp, #0x100
+ 838:	a90007e0 	stp	x0, x1, [sp]
+ 83c:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 840:	a90217e4 	stp	x4, x5, [sp, #32]
+ 844:	a9031fe6 	stp	x6, x7, [sp, #48]
+ 848:	a90427e8 	stp	x8, x9, [sp, #64]
+ 84c:	a9052fea 	stp	x10, x11, [sp, #80]
+ 850:	a90637ec 	stp	x12, x13, [sp, #96]
+ 854:	a9073fee 	stp	x14, x15, [sp, #112]
+ 858:	a90847f0 	stp	x16, x17, [sp, #128]
+ 85c:	a9094ff2 	stp	x18, x19, [sp, #144]
+ 860:	a90a57f4 	stp	x20, x21, [sp, #160]
+ 864:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ 868:	a90c67f8 	stp	x24, x25, [sp, #192]
+ 86c:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ 870:	a90e77fc 	stp	x28, x29, [sp, #224]
+ 874:	f9007bfe 	str	x30, [sp, #240]
+ 878:	d2800040 	mov	x0, #0x2                   	// #2
+ 87c:	d5385201 	mrs	x1, esr_el1
+ 880:	d5384022 	mrs	x2, elr_el1
+ 884:	94000000 	bl	0 <show_invalid_entry_message>
+ 888:	14000000 	b	d3c <err_hang>
+
+000000000000088c <error_invalid_el1t>:
+ 88c:	d10403ff 	sub	sp, sp, #0x100
+ 890:	a90007e0 	stp	x0, x1, [sp]
+ 894:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 898:	a90217e4 	stp	x4, x5, [sp, #32]
+ 89c:	a9031fe6 	stp	x6, x7, [sp, #48]
+ 8a0:	a90427e8 	stp	x8, x9, [sp, #64]
+ 8a4:	a9052fea 	stp	x10, x11, [sp, #80]
+ 8a8:	a90637ec 	stp	x12, x13, [sp, #96]
+ 8ac:	a9073fee 	stp	x14, x15, [sp, #112]
+ 8b0:	a90847f0 	stp	x16, x17, [sp, #128]
+ 8b4:	a9094ff2 	stp	x18, x19, [sp, #144]
+ 8b8:	a90a57f4 	stp	x20, x21, [sp, #160]
+ 8bc:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ 8c0:	a90c67f8 	stp	x24, x25, [sp, #192]
+ 8c4:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ 8c8:	a90e77fc 	stp	x28, x29, [sp, #224]
+ 8cc:	f9007bfe 	str	x30, [sp, #240]
+ 8d0:	d2800060 	mov	x0, #0x3                   	// #3
+ 8d4:	d5385201 	mrs	x1, esr_el1
+ 8d8:	d5384022 	mrs	x2, elr_el1
+ 8dc:	94000000 	bl	0 <show_invalid_entry_message>
+ 8e0:	14000000 	b	d3c <err_hang>
+
+00000000000008e4 <sync_invalid_el1h>:
+ 8e4:	d10403ff 	sub	sp, sp, #0x100
+ 8e8:	a90007e0 	stp	x0, x1, [sp]
+ 8ec:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 8f0:	a90217e4 	stp	x4, x5, [sp, #32]
+ 8f4:	a9031fe6 	stp	x6, x7, [sp, #48]
+ 8f8:	a90427e8 	stp	x8, x9, [sp, #64]
+ 8fc:	a9052fea 	stp	x10, x11, [sp, #80]
+ 900:	a90637ec 	stp	x12, x13, [sp, #96]
+ 904:	a9073fee 	stp	x14, x15, [sp, #112]
+ 908:	a90847f0 	stp	x16, x17, [sp, #128]
+ 90c:	a9094ff2 	stp	x18, x19, [sp, #144]
+ 910:	a90a57f4 	stp	x20, x21, [sp, #160]
+ 914:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ 918:	a90c67f8 	stp	x24, x25, [sp, #192]
+ 91c:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ 920:	a90e77fc 	stp	x28, x29, [sp, #224]
+ 924:	f9007bfe 	str	x30, [sp, #240]
+ 928:	d2800080 	mov	x0, #0x4                   	// #4
+ 92c:	d5385201 	mrs	x1, esr_el1
+ 930:	d5384022 	mrs	x2, elr_el1
+ 934:	94000000 	bl	0 <show_invalid_entry_message>
+ 938:	14000000 	b	d3c <err_hang>
+
+000000000000093c <fiq_invalid_el1h>:
+ 93c:	d10403ff 	sub	sp, sp, #0x100
+ 940:	a90007e0 	stp	x0, x1, [sp]
+ 944:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 948:	a90217e4 	stp	x4, x5, [sp, #32]
+ 94c:	a9031fe6 	stp	x6, x7, [sp, #48]
+ 950:	a90427e8 	stp	x8, x9, [sp, #64]
+ 954:	a9052fea 	stp	x10, x11, [sp, #80]
+ 958:	a90637ec 	stp	x12, x13, [sp, #96]
+ 95c:	a9073fee 	stp	x14, x15, [sp, #112]
+ 960:	a90847f0 	stp	x16, x17, [sp, #128]
+ 964:	a9094ff2 	stp	x18, x19, [sp, #144]
+ 968:	a90a57f4 	stp	x20, x21, [sp, #160]
+ 96c:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ 970:	a90c67f8 	stp	x24, x25, [sp, #192]
+ 974:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ 978:	a90e77fc 	stp	x28, x29, [sp, #224]
+ 97c:	f9007bfe 	str	x30, [sp, #240]
+ 980:	d28000c0 	mov	x0, #0x6                   	// #6
+ 984:	d5385201 	mrs	x1, esr_el1
+ 988:	d5384022 	mrs	x2, elr_el1
+ 98c:	94000000 	bl	0 <show_invalid_entry_message>
+ 990:	14000000 	b	d3c <err_hang>
+
+0000000000000994 <error_invalid_el1h>:
+ 994:	d10403ff 	sub	sp, sp, #0x100
+ 998:	a90007e0 	stp	x0, x1, [sp]
+ 99c:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 9a0:	a90217e4 	stp	x4, x5, [sp, #32]
+ 9a4:	a9031fe6 	stp	x6, x7, [sp, #48]
+ 9a8:	a90427e8 	stp	x8, x9, [sp, #64]
+ 9ac:	a9052fea 	stp	x10, x11, [sp, #80]
+ 9b0:	a90637ec 	stp	x12, x13, [sp, #96]
+ 9b4:	a9073fee 	stp	x14, x15, [sp, #112]
+ 9b8:	a90847f0 	stp	x16, x17, [sp, #128]
+ 9bc:	a9094ff2 	stp	x18, x19, [sp, #144]
+ 9c0:	a90a57f4 	stp	x20, x21, [sp, #160]
+ 9c4:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ 9c8:	a90c67f8 	stp	x24, x25, [sp, #192]
+ 9cc:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ 9d0:	a90e77fc 	stp	x28, x29, [sp, #224]
+ 9d4:	f9007bfe 	str	x30, [sp, #240]
+ 9d8:	d28000e0 	mov	x0, #0x7                   	// #7
+ 9dc:	d5385201 	mrs	x1, esr_el1
+ 9e0:	d5384022 	mrs	x2, elr_el1
+ 9e4:	94000000 	bl	0 <show_invalid_entry_message>
+ 9e8:	14000000 	b	d3c <err_hang>
+
+00000000000009ec <sync_invalid_el0_64>:
+ 9ec:	d10403ff 	sub	sp, sp, #0x100
+ 9f0:	a90007e0 	stp	x0, x1, [sp]
+ 9f4:	a9010fe2 	stp	x2, x3, [sp, #16]
+ 9f8:	a90217e4 	stp	x4, x5, [sp, #32]
+ 9fc:	a9031fe6 	stp	x6, x7, [sp, #48]
+ a00:	a90427e8 	stp	x8, x9, [sp, #64]
+ a04:	a9052fea 	stp	x10, x11, [sp, #80]
+ a08:	a90637ec 	stp	x12, x13, [sp, #96]
+ a0c:	a9073fee 	stp	x14, x15, [sp, #112]
+ a10:	a90847f0 	stp	x16, x17, [sp, #128]
+ a14:	a9094ff2 	stp	x18, x19, [sp, #144]
+ a18:	a90a57f4 	stp	x20, x21, [sp, #160]
+ a1c:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ a20:	a90c67f8 	stp	x24, x25, [sp, #192]
+ a24:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ a28:	a90e77fc 	stp	x28, x29, [sp, #224]
+ a2c:	f9007bfe 	str	x30, [sp, #240]
+ a30:	d2800100 	mov	x0, #0x8                   	// #8
+ a34:	d5385201 	mrs	x1, esr_el1
+ a38:	d5384022 	mrs	x2, elr_el1
+ a3c:	94000000 	bl	0 <show_invalid_entry_message>
+ a40:	14000000 	b	d3c <err_hang>
+
+0000000000000a44 <irq_invalid_el0_64>:
+ a44:	d10403ff 	sub	sp, sp, #0x100
+ a48:	a90007e0 	stp	x0, x1, [sp]
+ a4c:	a9010fe2 	stp	x2, x3, [sp, #16]
+ a50:	a90217e4 	stp	x4, x5, [sp, #32]
+ a54:	a9031fe6 	stp	x6, x7, [sp, #48]
+ a58:	a90427e8 	stp	x8, x9, [sp, #64]
+ a5c:	a9052fea 	stp	x10, x11, [sp, #80]
+ a60:	a90637ec 	stp	x12, x13, [sp, #96]
+ a64:	a9073fee 	stp	x14, x15, [sp, #112]
+ a68:	a90847f0 	stp	x16, x17, [sp, #128]
+ a6c:	a9094ff2 	stp	x18, x19, [sp, #144]
+ a70:	a90a57f4 	stp	x20, x21, [sp, #160]
+ a74:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ a78:	a90c67f8 	stp	x24, x25, [sp, #192]
+ a7c:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ a80:	a90e77fc 	stp	x28, x29, [sp, #224]
+ a84:	f9007bfe 	str	x30, [sp, #240]
+ a88:	d2800120 	mov	x0, #0x9                   	// #9
+ a8c:	d5385201 	mrs	x1, esr_el1
+ a90:	d5384022 	mrs	x2, elr_el1
+ a94:	94000000 	bl	0 <show_invalid_entry_message>
+ a98:	14000000 	b	d3c <err_hang>
+
+0000000000000a9c <fiq_invalid_el0_64>:
+ a9c:	d10403ff 	sub	sp, sp, #0x100
+ aa0:	a90007e0 	stp	x0, x1, [sp]
+ aa4:	a9010fe2 	stp	x2, x3, [sp, #16]
+ aa8:	a90217e4 	stp	x4, x5, [sp, #32]
+ aac:	a9031fe6 	stp	x6, x7, [sp, #48]
+ ab0:	a90427e8 	stp	x8, x9, [sp, #64]
+ ab4:	a9052fea 	stp	x10, x11, [sp, #80]
+ ab8:	a90637ec 	stp	x12, x13, [sp, #96]
+ abc:	a9073fee 	stp	x14, x15, [sp, #112]
+ ac0:	a90847f0 	stp	x16, x17, [sp, #128]
+ ac4:	a9094ff2 	stp	x18, x19, [sp, #144]
+ ac8:	a90a57f4 	stp	x20, x21, [sp, #160]
+ acc:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ ad0:	a90c67f8 	stp	x24, x25, [sp, #192]
+ ad4:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ ad8:	a90e77fc 	stp	x28, x29, [sp, #224]
+ adc:	f9007bfe 	str	x30, [sp, #240]
+ ae0:	d2800140 	mov	x0, #0xa                   	// #10
+ ae4:	d5385201 	mrs	x1, esr_el1
+ ae8:	d5384022 	mrs	x2, elr_el1
+ aec:	94000000 	bl	0 <show_invalid_entry_message>
+ af0:	14000000 	b	d3c <err_hang>
+
+0000000000000af4 <error_invalid_el0_64>:
+ af4:	d10403ff 	sub	sp, sp, #0x100
+ af8:	a90007e0 	stp	x0, x1, [sp]
+ afc:	a9010fe2 	stp	x2, x3, [sp, #16]
+ b00:	a90217e4 	stp	x4, x5, [sp, #32]
+ b04:	a9031fe6 	stp	x6, x7, [sp, #48]
+ b08:	a90427e8 	stp	x8, x9, [sp, #64]
+ b0c:	a9052fea 	stp	x10, x11, [sp, #80]
+ b10:	a90637ec 	stp	x12, x13, [sp, #96]
+ b14:	a9073fee 	stp	x14, x15, [sp, #112]
+ b18:	a90847f0 	stp	x16, x17, [sp, #128]
+ b1c:	a9094ff2 	stp	x18, x19, [sp, #144]
+ b20:	a90a57f4 	stp	x20, x21, [sp, #160]
+ b24:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ b28:	a90c67f8 	stp	x24, x25, [sp, #192]
+ b2c:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ b30:	a90e77fc 	stp	x28, x29, [sp, #224]
+ b34:	f9007bfe 	str	x30, [sp, #240]
+ b38:	d2800160 	mov	x0, #0xb                   	// #11
+ b3c:	d5385201 	mrs	x1, esr_el1
+ b40:	d5384022 	mrs	x2, elr_el1
+ b44:	94000000 	bl	0 <show_invalid_entry_message>
+ b48:	14000000 	b	d3c <err_hang>
+
+0000000000000b4c <sync_invalid_el0_32>:
+ b4c:	d10403ff 	sub	sp, sp, #0x100
+ b50:	a90007e0 	stp	x0, x1, [sp]
+ b54:	a9010fe2 	stp	x2, x3, [sp, #16]
+ b58:	a90217e4 	stp	x4, x5, [sp, #32]
+ b5c:	a9031fe6 	stp	x6, x7, [sp, #48]
+ b60:	a90427e8 	stp	x8, x9, [sp, #64]
+ b64:	a9052fea 	stp	x10, x11, [sp, #80]
+ b68:	a90637ec 	stp	x12, x13, [sp, #96]
+ b6c:	a9073fee 	stp	x14, x15, [sp, #112]
+ b70:	a90847f0 	stp	x16, x17, [sp, #128]
+ b74:	a9094ff2 	stp	x18, x19, [sp, #144]
+ b78:	a90a57f4 	stp	x20, x21, [sp, #160]
+ b7c:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ b80:	a90c67f8 	stp	x24, x25, [sp, #192]
+ b84:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ b88:	a90e77fc 	stp	x28, x29, [sp, #224]
+ b8c:	f9007bfe 	str	x30, [sp, #240]
+ b90:	d2800180 	mov	x0, #0xc                   	// #12
+ b94:	d5385201 	mrs	x1, esr_el1
+ b98:	d5384022 	mrs	x2, elr_el1
+ b9c:	94000000 	bl	0 <show_invalid_entry_message>
+ ba0:	14000000 	b	d3c <err_hang>
+
+0000000000000ba4 <irq_invalid_el0_32>:
+ ba4:	d10403ff 	sub	sp, sp, #0x100
+ ba8:	a90007e0 	stp	x0, x1, [sp]
+ bac:	a9010fe2 	stp	x2, x3, [sp, #16]
+ bb0:	a90217e4 	stp	x4, x5, [sp, #32]
+ bb4:	a9031fe6 	stp	x6, x7, [sp, #48]
+ bb8:	a90427e8 	stp	x8, x9, [sp, #64]
+ bbc:	a9052fea 	stp	x10, x11, [sp, #80]
+ bc0:	a90637ec 	stp	x12, x13, [sp, #96]
+ bc4:	a9073fee 	stp	x14, x15, [sp, #112]
+ bc8:	a90847f0 	stp	x16, x17, [sp, #128]
+ bcc:	a9094ff2 	stp	x18, x19, [sp, #144]
+ bd0:	a90a57f4 	stp	x20, x21, [sp, #160]
+ bd4:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ bd8:	a90c67f8 	stp	x24, x25, [sp, #192]
+ bdc:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ be0:	a90e77fc 	stp	x28, x29, [sp, #224]
+ be4:	f9007bfe 	str	x30, [sp, #240]
+ be8:	d28001a0 	mov	x0, #0xd                   	// #13
+ bec:	d5385201 	mrs	x1, esr_el1
+ bf0:	d5384022 	mrs	x2, elr_el1
+ bf4:	94000000 	bl	0 <show_invalid_entry_message>
+ bf8:	14000000 	b	d3c <err_hang>
+
+0000000000000bfc <fiq_invalid_el0_32>:
+ bfc:	d10403ff 	sub	sp, sp, #0x100
+ c00:	a90007e0 	stp	x0, x1, [sp]
+ c04:	a9010fe2 	stp	x2, x3, [sp, #16]
+ c08:	a90217e4 	stp	x4, x5, [sp, #32]
+ c0c:	a9031fe6 	stp	x6, x7, [sp, #48]
+ c10:	a90427e8 	stp	x8, x9, [sp, #64]
+ c14:	a9052fea 	stp	x10, x11, [sp, #80]
+ c18:	a90637ec 	stp	x12, x13, [sp, #96]
+ c1c:	a9073fee 	stp	x14, x15, [sp, #112]
+ c20:	a90847f0 	stp	x16, x17, [sp, #128]
+ c24:	a9094ff2 	stp	x18, x19, [sp, #144]
+ c28:	a90a57f4 	stp	x20, x21, [sp, #160]
+ c2c:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ c30:	a90c67f8 	stp	x24, x25, [sp, #192]
+ c34:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ c38:	a90e77fc 	stp	x28, x29, [sp, #224]
+ c3c:	f9007bfe 	str	x30, [sp, #240]
+ c40:	d28001c0 	mov	x0, #0xe                   	// #14
+ c44:	d5385201 	mrs	x1, esr_el1
+ c48:	d5384022 	mrs	x2, elr_el1
+ c4c:	94000000 	bl	0 <show_invalid_entry_message>
+ c50:	14000000 	b	d3c <err_hang>
+
+0000000000000c54 <error_invalid_el0_32>:
+ c54:	d10403ff 	sub	sp, sp, #0x100
+ c58:	a90007e0 	stp	x0, x1, [sp]
+ c5c:	a9010fe2 	stp	x2, x3, [sp, #16]
+ c60:	a90217e4 	stp	x4, x5, [sp, #32]
+ c64:	a9031fe6 	stp	x6, x7, [sp, #48]
+ c68:	a90427e8 	stp	x8, x9, [sp, #64]
+ c6c:	a9052fea 	stp	x10, x11, [sp, #80]
+ c70:	a90637ec 	stp	x12, x13, [sp, #96]
+ c74:	a9073fee 	stp	x14, x15, [sp, #112]
+ c78:	a90847f0 	stp	x16, x17, [sp, #128]
+ c7c:	a9094ff2 	stp	x18, x19, [sp, #144]
+ c80:	a90a57f4 	stp	x20, x21, [sp, #160]
+ c84:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ c88:	a90c67f8 	stp	x24, x25, [sp, #192]
+ c8c:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ c90:	a90e77fc 	stp	x28, x29, [sp, #224]
+ c94:	f9007bfe 	str	x30, [sp, #240]
+ c98:	d28001e0 	mov	x0, #0xf                   	// #15
+ c9c:	d5385201 	mrs	x1, esr_el1
+ ca0:	d5384022 	mrs	x2, elr_el1
+ ca4:	94000000 	bl	0 <show_invalid_entry_message>
+ ca8:	14000000 	b	d3c <err_hang>
+
+0000000000000cac <el1_irq>:
+ cac:	d10403ff 	sub	sp, sp, #0x100
+ cb0:	a90007e0 	stp	x0, x1, [sp]
+ cb4:	a9010fe2 	stp	x2, x3, [sp, #16]
+ cb8:	a90217e4 	stp	x4, x5, [sp, #32]
+ cbc:	a9031fe6 	stp	x6, x7, [sp, #48]
+ cc0:	a90427e8 	stp	x8, x9, [sp, #64]
+ cc4:	a9052fea 	stp	x10, x11, [sp, #80]
+ cc8:	a90637ec 	stp	x12, x13, [sp, #96]
+ ccc:	a9073fee 	stp	x14, x15, [sp, #112]
+ cd0:	a90847f0 	stp	x16, x17, [sp, #128]
+ cd4:	a9094ff2 	stp	x18, x19, [sp, #144]
+ cd8:	a90a57f4 	stp	x20, x21, [sp, #160]
+ cdc:	a90b5ff6 	stp	x22, x23, [sp, #176]
+ ce0:	a90c67f8 	stp	x24, x25, [sp, #192]
+ ce4:	a90d6ffa 	stp	x26, x27, [sp, #208]
+ ce8:	a90e77fc 	stp	x28, x29, [sp, #224]
+ cec:	f9007bfe 	str	x30, [sp, #240]
+ cf0:	94000000 	bl	0 <handle_irq>
+ cf4:	a94007e0 	ldp	x0, x1, [sp]
+ cf8:	a9410fe2 	ldp	x2, x3, [sp, #16]
+ cfc:	a94217e4 	ldp	x4, x5, [sp, #32]
+ d00:	a9431fe6 	ldp	x6, x7, [sp, #48]
+ d04:	a94427e8 	ldp	x8, x9, [sp, #64]
+ d08:	a9452fea 	ldp	x10, x11, [sp, #80]
+ d0c:	a94637ec 	ldp	x12, x13, [sp, #96]
+ d10:	a9473fee 	ldp	x14, x15, [sp, #112]
+ d14:	a94847f0 	ldp	x16, x17, [sp, #128]
+ d18:	a9494ff2 	ldp	x18, x19, [sp, #144]
+ d1c:	a94a57f4 	ldp	x20, x21, [sp, #160]
+ d20:	a94b5ff6 	ldp	x22, x23, [sp, #176]
+ d24:	a94c67f8 	ldp	x24, x25, [sp, #192]
+ d28:	a94d6ffa 	ldp	x26, x27, [sp, #208]
+ d2c:	a94e77fc 	ldp	x28, x29, [sp, #224]
+ d30:	f9407bfe 	ldr	x30, [sp, #240]
+ d34:	910403ff 	add	sp, sp, #0x100
+ d38:	d69f03e0 	eret
+
+0000000000000d3c <err_hang>:
+ d3c:	14000000 	b	d3c <err_hang>
