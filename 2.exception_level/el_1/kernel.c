@@ -1,8 +1,8 @@
 #include "printf.h"
 #include "utils.h"
-#include "mini_uart.h"
+#include "peripherals/mini_uart.h"
 
-void kernel(void)
+void kernel_main(void)
 {
 	uart_init();
 	init_printf(0, putc);

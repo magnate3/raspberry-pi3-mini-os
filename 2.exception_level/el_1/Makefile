@@ -1,6 +1,6 @@
 ARMGNU ?= aarch64-linux-gnu
 
-COPS = -Wall -nostdlib -nostartfiles -ffreestanding -Iinclude -mgeneral-regs-only
+COPS = -Wall -nostdlib -nostartfiles -ffreestanding -Iinclude -mgeneral-regs-only -DUSE_QEMU 
 
 all : kernel8.img
 
@@ -9,7 +9,7 @@ objects/%_c.o: %.c
 	$(ARMGNU)-gcc $(COPS) -MMD -c $< -o $@
 
 objects/%_s.o: %.S
-	$(ARMGNU)-gcc -Iinclude -MMD -c $< -o $@
+	$(ARMGNU)-gcc -Iinclude -DUSE_QEMU -MMD -c $< -o $@
 
 C_FILES = $(wildcard *.c)
 ASM_FILES = $(wildcard *.S)
