@@ -1,5 +1,17 @@
 # changes
 
+##change files
+
+```
+root@ubuntu:~/arm/raspberry-pi3-mini-os/2.exception_level/el_1# ls include/peripherals/mini_uart.h 
+include/peripherals/mini_uart.h
+root@ubuntu:~/arm/raspberry-pi3-mini-os/2.exception_level/el_1# ls mini_uart.c 
+mini_uart.c
+root@ubuntu:~/arm/raspberry-pi3-mini-os/2.exception_level/el_1# ls boot.S 
+boot.S
+root@ubuntu:~/arm/raspberry-pi3-mini-os/2.exception_level/el_1# 
+```
+
 ## include dir
 ![image](https://github.com/magnate3/raspberry-pi3-mini-os/blob/qemu/4.interrupt/pic/include.png)
  
@@ -31,7 +43,7 @@ mini_uart.c is copy from [raspberry-pi-os/exercises/lesson03/3/bl4ckout31/src/mi
 
 ## boot.S
 
-boot.S is copy from [raspberry-pi-os/exercises/lesson03/3/bl4ckout31/src/boot.S](https://github.com/fxlin/p1-kernel/tree/master/src/lesson02)
+boot.S is copy from [p1-kernel/src/lesson02/src/boot.S](https://github.com/fxlin/p1-kernel/tree/master/src/lesson02)
 
 
 ```
